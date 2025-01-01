@@ -1,5 +1,5 @@
 {
-  "type": "server_sided_portals:example",
+  "type": "minecraft:overworld",
   "generator": {
     "type": "minecraft:noise",
     "settings": "minecraft:overworld",

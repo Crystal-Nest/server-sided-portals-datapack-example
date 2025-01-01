@@ -1,0 +1,12 @@
+{
+  "type": "example:void",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:deep_dark",
+      "lakes": false,
+      "features": false,
+      "layers": []
+    }
+  }
+}
