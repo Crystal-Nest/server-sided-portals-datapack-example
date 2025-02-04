@@ -1,6 +1,6 @@
 {
   "pack": {
     "description": "Example datapack leveraging Server Sided Portals",
-    "pack_format": 15
+    "pack_format": 18
   }
 }
