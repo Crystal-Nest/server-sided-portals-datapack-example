@@ -2,7 +2,9 @@
 
 ## Aim
 
-This simple example datapack provides the basic structure to use [Server Sided Portals](https://github.com/Crystal-Nest/server-sided-portals) to create a custom dimension, in this case a copy of the Overworld, and define a block tag for the portal frame that allows traveling to said dimension, in this case portals can be made from Crying Obsidian.
+This simple example datapack provides the basic structure to use [Server Sided Portals](https://github.com/Crystal-Nest/server-sided-portals).  
+It adds two dimensions, a copy of the overworld and a complete void one, and defines for each the block tag for the portal frame.  
+For the overworld-copy dimension, an item tag is added to change the requirement to light up the portal: a breeze rod (blaze in older versions) is required.
 
 ## Usage
 
